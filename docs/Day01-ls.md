@@ -2,11 +2,11 @@
 
 * ls命令是linux下最常用的命令，ls命令就是list的缩写，ls用来打印当前目录的清单。通过ls命令不仅可以查看linux文件夹包含的文件而且还可以查看文件权限(包括目录、文件夹、文件权限)等。
 
-* 1.命令格式:  
+## 1.命令格式:  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ls[选项][目录名]
-* 2.命令功能:  
+## 2.命令功能:  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;列出目标目录中所有的子目录和文件
-* 3.常用参数:  
+## 3.常用参数:  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   -a, -all 列出目录下的所有文件，包括以'.'开头的隐含文件   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 

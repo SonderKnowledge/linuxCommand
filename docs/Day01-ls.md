@@ -18,11 +18,11 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   -color[=WHEN]控制是否使用色彩分辨文件,WHEN可以是 'never'、'always'、'auto'其中之一  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  -d, -directory将目录像文件一样显示而不是显示其下的文件  
+  -d, -directory将目录像文件一样显示而不是显示其下的文件  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   -D, -dired 产生适合Emacs的dired模式使用的结果  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  -f对输出的文件不进行排序,-aU选项生效, -lst选项失效  
+  -f对输出的文件不进行排序,-aU选项生效, -lst选项失效  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   -g 类似 -l,但不列出所有者  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

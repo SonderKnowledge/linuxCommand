@@ -16,3 +16,4 @@
 - head命令更新完毕
 - tail命令更新完毕
 - which命令更新完毕
+- whereis命令更新完毕

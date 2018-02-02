@@ -17,3 +17,5 @@
 - tail命令更新完毕
 - which命令更新完毕
 - whereis命令更新完毕
+- locate命令更新完毕
+

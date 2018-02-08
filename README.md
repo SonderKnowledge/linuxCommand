@@ -20,4 +20,5 @@
 - locate命令更新完毕
 - find命令更新完毕
 - find-exec命令更新完毕
+- find-xargs命令更新完毕
 
